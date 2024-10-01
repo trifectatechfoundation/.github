@@ -10,7 +10,7 @@ We maintain major infrastructure projects:
 
 - Time synchronization: [ntpd-rs](https://github.com/pendulum-project/ntpd-rs) and [Statime](https://github.com/pendulum-project/statime)
 - Privilege boundary: [sudo-rs](https://github.com/trifectatechfoundation/sudo-rs)
-- Data compression: [zlib-rs](https://github.com/memorysafety/zlib-rs)
+- Data compression: [zlib-rs](https://github.com/trifectatechfoundation/zlib-rs)
 
 And ecosystem projects:
 
